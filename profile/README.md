@@ -28,9 +28,6 @@ Publishing is straightforward. Export a ready-to-host site or connect via your p
 
 Professionals will appreciate code-level access (custom CSS/JS, head & body injection) and the ability to bring in web fonts, icons, and embeds. Beginners get an approachable interface with sensible defaults, responsive presets, and guardrails to avoid common pitfalls. Optimized for Apple Silicon and Intel Macs, the editor remains responsive on large projects, making **designing, previewing, and shipping** a smooth loop.
 
-![Visual Editing](https://static.macupdate.com/screenshots/354568/m/800x500bb-screenshot.png?v=1722954643)  
-_Live, canvas-first layout with guides and snapping_
-
 ---
 
 ## 🎁 What You Get
@@ -45,11 +42,6 @@ _Live, canvas-first layout with guides and snapping_
 - 🔍 **SEO Essentials** — Titles, meta, Open Graph, favicons, and sitemap helpers.  
 - 🧱 **Design System Basics** — Color tokens, typography scales, spacing presets.  
 - ⚡ **Mac-Optimized** — Fast previews and exports on Apple Silicon & Intel.
-
----
-
-![Blocks & Components](https://static.macupdate.com/screenshots/354569/m/800x500bb-2-screenshot.png?v=1722954644)  
-_Reusable sections speed up multi-page projects_
 
 ---
 
@@ -73,10 +65,6 @@ _Reusable sections speed up multi-page projects_
 
 ---
 
-![Responsive Preview](https://static.macupdate.com/submission/485578/d/800x500bb-2-screenshot.jpg)  
-_Check layouts across breakpoints before export_
-
----
 
 ## ⚙️ System Requirements
 
