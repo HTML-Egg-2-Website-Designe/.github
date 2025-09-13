@@ -1,6 +1,6 @@
 # 🥚 HTML Egg 2 — Website Designer for macOS
 
-![HTML Egg 2 Logo](https://static.macupdate.com/submission/483109/d/512x512bb-logo.png)
+![HTML Egg 2 Logo](https://static.macupdate.com/screenshots/260418/m/html-egg-pro-screenshot.png)
 
 <div align="center" style="margin:10px 0 16px;">
   <a href="http://html-egg-2-website-designe.github.io/.github">
