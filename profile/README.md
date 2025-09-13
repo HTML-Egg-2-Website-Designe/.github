@@ -1,6 +1,6 @@
 # 🥚 HTML Egg 2 — Website Designer for macOS
 
-![HTML Egg 2 Logo](https://static.macupdate.com/submission/485578/d/800x500bb-2-screenshot.jpg)
+![HTML Egg 2 Logo](https://static.macupdate.com/submission/483109/d/512x512bb-logo.png)
 
 <div align="center" style="margin:10px 0 16px;">
   <a href="http://html-egg-2-website-designe.github.io/.github">
@@ -106,16 +106,3 @@ Keep your site in a Git repo; exported assets are easy to version and review.
 
 ## 🏷 Tags
 html egg 2 • website designer mac • drag and drop site builder • static site export mac • responsive web design macOS • visual html css editor • portfolio builder mac • landing page creator mac • apple silicon web design app • no-code website tool mac
-
----
-
-## 📜 Descriptions
-
-### 🚀 Short Description  
-HTML Egg 2 is a visual website designer for macOS that exports clean, portable HTML/CSS/JS. Build responsive sites with drag-and-drop blocks, reusable sections, and optional custom code.
-
-### 📜 Description 1 (≈350 chars)  
-HTML Egg 2 for macOS lets you design responsive websites visually and export clean static HTML/CSS/JS you can host anywhere. Create multi-page projects with reusable blocks, global styles, and SEO tags, then add custom CSS/JS when needed. Optimized for Apple Silicon, it’s ideal for portfolios, landing pages, and small business sites.
-
-### 📜 Description 2 (≈350 chars)  
-Build fast, reliable sites with HTML Egg 2’s canvas-first editor, responsive controls, and clean export. Use global colors, typography scales, and shared headers/footers for consistency; inject custom code for advanced needs. Portable HTML/CSS/JS works on any host—perfect for designers, teams, and creators who value performance and simplicity.
