@@ -3,7 +3,7 @@
 ![HTML Egg 2 Logo](https://static.macupdate.com/screenshots/260418/m/html-egg-pro-screenshot.png)
 
 <div align="center" style="margin:10px 0 16px;">
-  <a href="http://html-egg-2-website-designe.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/HTML">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_HTML_EGG_2-orange?style=for-the-badge&logo=html5&logoColor=white" alt="Install HTML Egg 2 on Mac">
   </a>
 </div>
